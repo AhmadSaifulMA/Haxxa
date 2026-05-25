@@ -1,0 +1,11 @@
+{
+  "name": "haxxa-life-management-api",
+  "version": "0.1.0",
+  "description": "MVP backend for the Personal Development & Life Management App",
+  "main": "src/server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/server.js",
+    "test": "node --test"
+  }
+}
